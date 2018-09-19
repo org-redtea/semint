@@ -1,6 +1,6 @@
 {
   "name": "@redtea/semint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Semint is a small lib to encode/decode SemVer to/from integer",
   "main": "umd/index.js",
   "publishConfig": {
